@@ -1,0 +1,29 @@
+.header {
+  color: #ff0000;
+  background-color: #000000;
+}
+
+a {
+ color: #ff0000;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+a:visited {
+  color: #00ff00;
+}
+
+.courses{
+  color: #0000ff;
+  background-color: #b5432f;
+}
+
+#emphasis{
+  color: #0000ff;
+}
+
+#span{
+  color: #9500ff;
+}
