@@ -1,0 +1,77 @@
+body{
+  background-color: #cccccc;
+  background-image: url(milner.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+main{
+  background-color: #0000ff;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.customtext{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.fontcombined {
+font: bold 20px Arial, Helvetica, sans-serif;
+}
+
+.boxmodel {
+  border: 2px solid #0000ff;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+}
+
+.otherbox {
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid #00ff00;
+}
+
+.zeroout {
+  margin: 0;
+  padding: 0;
+}
+
+.pwidth {
+  width: 100px;
+  border: 1px solid #ff0000;
+  padding: 10px;
+}
+
+.textright {
+  text-align: right;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+text-align: justify;
+}
+
+.textspace {
+  letter-spacing: 20px;
+}
+
+.textheight {
+line-height: 50px;
+}
+
+.imgbox {
+border: 5px solid #ff0000;
+padding: 10px;
+margin: 20px;
+background-color: #0000ff;
+width: 200px;
+}
