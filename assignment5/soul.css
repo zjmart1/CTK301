@@ -1,0 +1,70 @@
+body {
+  font-family: Impact, Arial;
+  font-size: 12px;
+  color: #3288cf;
+}
+
+.imgbox {
+  display: block;
+}
+
+div {
+  postion: relative;
+}
+.onpic {
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 700px;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+h1 {
+  color: #3288cf;
+  font-weight: bold;
+  font-size: 125px;
+  position: absolute;
+  top: 140px;
+  left: 205px;
+}
+
+em {
+  font-style: normal;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+b {
+  color: #FFA100;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: #3288cf;
+  text-decoration: none;
+}
+
+.credits {
+  font-weight: normal;
+}
+ #pg {
+   display: block;
+   position: relative;
+   left: 205px;
+
+ }
+
+ #centered {
+   position: relative;
+   left: 50px;
+
+ }
+
+ #centeredlink {
+   position: relative;
+   left: 205px;
+ }
