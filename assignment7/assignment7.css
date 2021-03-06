@@ -66,6 +66,7 @@ main {
 .p1 {
   text-align: justify;
   margin: 20px;
+  font-weight: bold;
 }
 
 .p2 {
