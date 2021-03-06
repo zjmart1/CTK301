@@ -1,0 +1,115 @@
+body { background-color: #999999; }
+
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  border: 1px solid #0000ff;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.redtext {
+  font-weight: bold;
+  color: #ff0000;
+}
+
+a {
+  text-decoration: none;
+  color: #72DCFC;
+}
+
+a:hover {
+  color: #ff0000;
+}
+
+h1 {
+  grid-column: span 4;
+  margin: 0;
+  padding: 20px;
+  background-image: linear-gradient(to right, #042bd3, #1e35db, #2e3fe3, #3a49eb, #4553f3);
+
+}
+
+nav {
+  grid-column: span 4;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  border: 2px #0000ff;
+  background-image: linear-gradient(to right, #042bd3, #1e35db, #2e3fe3, #3a49eb, #4553f3);
+  color: #72DCFC;
+  font-size: 20px;
+  margin: 0;
+  padding: 25px;
+}
+
+h2 {
+  display:block;
+  grid-column: span 4;
+  border-bottom: 4px solid #0000ff;
+  margin-left: 20px;
+}
+
+#house {
+  float: left;
+  margin: 10px;
+}
+
+main {
+  grid-column: span 4;
+}
+
+.p1 {
+  text-align: justify;
+  margin: 20px;
+}
+
+.p2 {
+  clear: both;
+  margin: 10px;
+}
+
+footer {
+  background-color: #ff0000;
+  grid-column: span 4;
+}
+
+
+
+#adademy {
+  float: right;
+}
+
+#clear {
+  clear: both;
+  margin-left: 10px;
+}
+
+#luther {
+  margin: 10px;
+  margin-left: 20px;
+  border: solid #0600C6;
+  float: left;
+}
+
+#allison {
+  margin: 10px;
+  border: solid #0600C6;
+}
+
+#diego {
+  margin: 10px;
+  border: solid #0600C6;
+}
+
+#Klaus {
+  margin-left: 10px;
+}
+
+#gallerytext {
+  margin: 10px;
+}
